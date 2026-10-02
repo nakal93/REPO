@@ -7,9 +7,8 @@
     "version": 1,
     "description": "Streaming Provider KingBokep",
     "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "NSFW"
+      "Others",
+      "Movie"
     ],
     "authors": [
       "nakal93"
@@ -24,9 +23,8 @@
     "version": 1,
     "description": "Streaming Provider PasarBokep",
     "tvTypes": [
-      "Movie",
-      "TvSeries",
-      "NSFW"
+      "Others",
+      "Movie"
     ],
     "authors": [
       "nakal93"
