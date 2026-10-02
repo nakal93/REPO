@@ -5,9 +5,32 @@
     "url": "https://github.com/nakal93/REPO/releases/download/v1.0.0/KingBokep.cs3",
     "status": 1,
     "version": 1,
-    "description": "Provider KingBokep",
-    "tvTypes": ["NSFW"],
-    "authors": ["nakal93"],
+    "description": "Streaming Provider KingBokep",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "NSFW"
+    ],
+    "authors": [
+      "nakal93"
+    ],
+    "apiVersion": 1
+  },
+  {
+    "name": "PasarBokep",
+    "internalName": "PasarBokep",
+    "url": "https://github.com/nakal93/REPO/releases/download/v1.0.0/PasarBokep.cs3",
+    "status": 1,
+    "version": 1,
+    "description": "Streaming Provider PasarBokep",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "NSFW"
+    ],
+    "authors": [
+      "nakal93"
+    ],
     "apiVersion": 1
   }
 ]
