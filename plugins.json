@@ -6,6 +6,7 @@
     "status": 1,
     "version": 1,
     "description": "Streaming Provider KingBokep",
+    "language": "id",
     "tvTypes": [
       "Others",
       "Movie"
@@ -13,6 +14,8 @@
     "authors": [
       "nakal93"
     ],
+    "fileSize": 54074,
+    "fileHash": "sha256-9428314121be221ab78fcd350c7038bd6f806a4db8049488f3e2cca7c8b8ee88",
     "apiVersion": 1
   },
   {
@@ -22,6 +25,7 @@
     "status": 1,
     "version": 1,
     "description": "Streaming Provider PasarBokep",
+    "language": "id",
     "tvTypes": [
       "Others",
       "Movie"
@@ -29,6 +33,8 @@
     "authors": [
       "nakal93"
     ],
+    "fileSize": 64339,
+    "fileHash": "sha256-1df3be99c3861a5b0e09be95f9c14c62dd927890606c7bcda3bedb721582233e",
     "apiVersion": 1
   }
 ]
